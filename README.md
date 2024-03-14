@@ -22,7 +22,7 @@ To compile the example:
 > mkdir build; cd build 
 > cmake .. 
 > make 
-> export OMP_NUM_THREADS=
+> export OMP_NUM_THREADS=4 
 > ./pardiso_solver 
 >```
 
