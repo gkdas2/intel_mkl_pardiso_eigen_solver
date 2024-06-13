@@ -1,3 +1,9 @@
+/**
+*Copyright (c) 2024 Ghanendra K Das
+* MIT License 
+*/
+
+
 #pragma once
 #include <iostream>
 #include <Eigen/Dense>
