@@ -1,4 +1,4 @@
-A simple interface to Intel MKL Pardiso solver 
+A simple interface to Intel MKL Pardiso solver to solve sparse linear systems of form Ax=b, where A and b are Eigen data structures
 
 # Requisites
 - cmake
